@@ -4,11 +4,11 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatusHealthImage"
-		"xpos"				"3"
-		"ypos"				"3"
+		"xpos"				"11"
+		"ypos"				"17"
 		"zpos"				"4"
-		"wide"				"0"		// 26
-		"tall"				"0"		// 26
+		"wide"				"10"
+		"tall"				"10"
 		"visible"			"1"
 		"enabled"			"1"
 		"scaleImage"		"1"	
@@ -17,11 +17,11 @@
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"			"PlayerStatusHealthImageBG"
-		"xpos"				"1"
-		"ypos"				"1"
+		"xpos"				"9"
+		"ypos"				"15"
 		"zpos"				"3"
-		"wide"				"0"		// 30
-		"tall"				"0"		// 30
+		"wide"				"14"
+		"tall"				"14"
 		"visible"			"1"
 		"enabled"			"1"
 		"image"				"../hud/health_bg"
@@ -86,20 +86,5 @@
 		"textAlignment"		"center"	
 		"font"				"HudFontSmallBold"
 		"fgcolor"			"Black"
-	}
-	"HealthIcon"
-	{
-		"ControlName"		"ImagePanel"
-		"fieldName"			"HealthIcon"
-		"xpos"				"10"
-		"ypos"				"14"
-		"xpos_lodef"		"10"
-		"zpos"				"4"
-		"wide"				"12"
-		"tall"				"12"
-		"visible"			"1"
-		"enabled"			"1"
-		"image"				"../vgui/class_icons/class_icon_orange_medic"
-		"scaleImage"		"1"
 	}
 }
