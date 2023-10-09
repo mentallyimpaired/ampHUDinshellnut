@@ -66,7 +66,7 @@
 		"fieldName" "HudMedicCharge"
 		"visible" "1"
 		"enabled" "1"
-		"xpos" "c-42" // CUM
+		"xpos" "c-43" // CUM
 		"ypos" "c50"
 		"wide" "f0"
 		"tall" "480"
